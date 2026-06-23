@@ -77,6 +77,25 @@ Every meaningful evolution of an identity can eventually become part of a persis
 
 This transforms AI from a temporary service into something users can genuinely own, evolve, and build upon.
 
+
+---
+
+
+## Verified on 0G
+
+LYRA does not treat 0G as a decorative blockchain layer.
+
+The project uses 0G as the foundation for a more important idea: AI identities should have persistent, verifiable memory.
+
+When an identity is published, LYRA can associate that identity with onchain transaction data, creating a visible proof layer for the agent's DNA Capsule. This turns the identity from private application state into something that can be referenced, verified, and preserved.
+
+The transaction below represents the direction LYRA is building toward: every important identity evolution can become part of a permanent provenance trail.
+
+![0G Transaction](docs/images/0g-transaction.png)
+
+<p align="center"><strong>0G Transaction Proof</strong></p>
+
+
 ---
 
 # Why It Matters
@@ -597,21 +616,79 @@ A complete walkthrough of LYRA demonstrates the entire identity lifecycle:
 
 # Screenshots
 
-The following screenshots illustrate the complete LYRA experience.
+## Landing
 
-| Section | File |
-|---------|------|
-| Landing | `docs/images/landing.png` |
-| Authentication | `docs/images/auth.png` |
-| Create Identity | `docs/images/create-identity.png` |
-| My Agents | `docs/images/my-agents.png` |
-| Chat | `docs/images/chat.png` |
-| Explore | `docs/images/explore.png` |
-| Mix | `docs/images/mix.png` |
-| Identity Profile | `docs/images/profile.png` |
-| DNA Capsule | `docs/images/provenance.png` |
+![Landing](docs/images/landing.png)
+
+<p align="center"><strong>Landing Experience</strong></p>
 
 ---
+
+## Authentication
+
+![Authentication](docs/images/auth.png)
+
+<p align="center"><strong>Authentication</strong></p>
+
+---
+
+## Create Identity
+
+![Create Identity](docs/images/create-identity.png)
+
+<p align="center"><strong>Create Identity</strong></p>
+
+---
+
+## My Agents
+
+![My Agents](docs/images/my-agents.png)
+
+<p align="center"><strong>My Agents</strong></p>
+
+---
+
+## Chat
+
+![Chat](docs/images/chat.png)
+
+<p align="center"><strong>Live Identity Chat</strong></p>
+
+---
+
+## Explore
+
+![Explore](docs/images/explore.png)
+
+<p align="center"><strong>Explore Public Identities</strong></p>
+
+---
+
+## Mix
+
+![Mix](docs/images/mix.png)
+
+<p align="center"><strong>Hybrid Identity Synthesis</strong></p>
+
+---
+
+## Identity Profile
+
+![Identity Profile](docs/images/profile.png)
+
+<p align="center"><strong>Identity Profile</strong></p>
+
+---
+
+## 0G Provenance
+
+![0G Provenance](docs/images/provenance.png)
+
+<p align="center"><strong>0G Provenance Layer</strong></p>
+
+
+---
+
 
 # Links
 

@@ -77,6 +77,25 @@ Every meaningful evolution of an identity can eventually become part of a persis
 
 This transforms AI from a temporary service into something users can genuinely own, evolve, and build upon.
 
+
+---
+
+
+## Verified on 0G
+
+LYRA does not treat 0G as a decorative blockchain layer.
+
+The project uses 0G as the foundation for a more important idea: AI identities should have persistent, verifiable memory.
+
+When an identity is published, LYRA can associate that identity with onchain transaction data, creating a visible proof layer for the agent's DNA Capsule. This turns the identity from private application state into something that can be referenced, verified, and preserved.
+
+The transaction below represents the direction LYRA is building toward: every important identity evolution can become part of a permanent provenance trail.
+
+![0G Transaction](docs/images/0g-transaction.png)
+
+<p align="center"><strong>0G Transaction Proof</strong></p>
+
+
 ---
 
 # Why It Matters
@@ -141,6 +160,10 @@ The landing page introduces the concept of AI identities through a cinematic onb
 
 Visitors immediately understand how identities are created, evolve through conversations, merge together, and become permanently preserved.
 
+![Landing](docs/images/landing.png)
+
+<p align="center"><strong>Landing Experience</strong></p>
+
 ---
 
 ## Authentication
@@ -148,6 +171,10 @@ Visitors immediately understand how identities are created, evolve through conve
 Users create their own identity workspace through Supabase Authentication.
 
 Every identity belongs to a real creator while remaining portable for future evolution.
+
+![Authentication](docs/images/auth.png)
+
+<p align="center"><strong>Authentication</strong></p>
 
 ---
 
@@ -162,6 +189,10 @@ Every identity begins with four simple elements:
 
 From this initial seed, an entirely new digital identity starts its journey.
 
+![Create Identity](docs/images/create-identity.png)
+
+<p align="center"><strong>Create Identity</strong></p>
+
 ---
 
 ## My Agents
@@ -169,6 +200,10 @@ From this initial seed, an entirely new digital identity starts its journey.
 Users manage their complete identity library.
 
 Each agent represents an evolving digital entity with its own memories, relationships, and future evolution.
+
+![My Agents](docs/images/my-agents.png)
+
+<p align="center"><strong>My Agents</strong></p>
 
 ---
 
@@ -178,6 +213,10 @@ Conversation is the engine of evolution.
 
 Every interaction contributes to the long-term development of the identity instead of disappearing after the session ends.
 
+![Chat](docs/images/chat.png)
+
+<p align="center"><strong>Live Identity Chat</strong></p>
+
 ---
 
 ## Explore
@@ -185,6 +224,10 @@ Every interaction contributes to the long-term development of the identity inste
 Public identities become discoverable.
 
 Users can browse, study, and build upon identities created by others.
+
+![Explore](docs/images/explore.png)
+
+<p align="center"><strong>Explore Public Identities</strong></p>
 
 ---
 
@@ -204,6 +247,10 @@ Two independent identities can become one.
 
 LYRA synthesizes both parents into a completely new hybrid identity capable of developing its own personality, memories, and future evolution.
 
+![Mix](docs/images/mix.png)
+
+<p align="center"><strong>Hybrid Identity Synthesis</strong></p>
+
 ---
 
 ## Identity Profile
@@ -221,6 +268,10 @@ Every identity has its own structured profile containing:
 
 The profile becomes the public representation of an evolving AI identity.
 
+![Identity Profile](docs/images/profile.png)
+
+<p align="center"><strong>Identity Profile</strong></p>
+
 ---
 
 ## DNA Capsule
@@ -230,6 +281,10 @@ The final stage of the journey.
 An identity's cognitive DNA can be represented as a portable capsule containing its memory profile, evolution history, lineage, provenance, and metadata.
 
 Rather than preserving conversations, LYRA preserves identities.
+
+![0G Provenance](docs/images/provenance.png)
+
+<p align="center"><strong>DNA Capsule and 0G Provenance</strong></p>
 
 ---
 
@@ -592,24 +647,6 @@ A complete walkthrough of LYRA demonstrates the entire identity lifecycle:
 - Mix
 - DNA Capsule
 - 0G Provenance
-
----
-
-# Screenshots
-
-The following screenshots illustrate the complete LYRA experience.
-
-| Section | File |
-|---------|------|
-| Landing | `docs/images/landing.png` |
-| Authentication | `docs/images/auth.png` |
-| Create Identity | `docs/images/create-identity.png` |
-| My Agents | `docs/images/my-agents.png` |
-| Chat | `docs/images/chat.png` |
-| Explore | `docs/images/explore.png` |
-| Mix | `docs/images/mix.png` |
-| Identity Profile | `docs/images/profile.png` |
-| DNA Capsule | `docs/images/provenance.png` |
 
 ---
 
